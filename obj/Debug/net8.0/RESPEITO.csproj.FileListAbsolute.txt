@@ -1,0 +1,14 @@
+C:\Users\400071624\Documents\RESPEITO\bin\Debug\net8.0\RESPEITO.exe
+C:\Users\400071624\Documents\RESPEITO\bin\Debug\net8.0\RESPEITO.deps.json
+C:\Users\400071624\Documents\RESPEITO\bin\Debug\net8.0\RESPEITO.runtimeconfig.json
+C:\Users\400071624\Documents\RESPEITO\bin\Debug\net8.0\RESPEITO.dll
+C:\Users\400071624\Documents\RESPEITO\bin\Debug\net8.0\RESPEITO.pdb
+C:\Users\400071624\Documents\RESPEITO\obj\Debug\net8.0\RESPEITO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\400071624\Documents\RESPEITO\obj\Debug\net8.0\RESPEITO.AssemblyInfoInputs.cache
+C:\Users\400071624\Documents\RESPEITO\obj\Debug\net8.0\RESPEITO.AssemblyInfo.cs
+C:\Users\400071624\Documents\RESPEITO\obj\Debug\net8.0\RESPEITO.csproj.CoreCompileInputs.cache
+C:\Users\400071624\Documents\RESPEITO\obj\Debug\net8.0\RESPEITO.dll
+C:\Users\400071624\Documents\RESPEITO\obj\Debug\net8.0\refint\RESPEITO.dll
+C:\Users\400071624\Documents\RESPEITO\obj\Debug\net8.0\RESPEITO.pdb
+C:\Users\400071624\Documents\RESPEITO\obj\Debug\net8.0\RESPEITO.genruntimeconfig.cache
+C:\Users\400071624\Documents\RESPEITO\obj\Debug\net8.0\ref\RESPEITO.dll
